@@ -19,7 +19,6 @@ function App() {
         <ConfigureCounter onSet={handleSetCount} />
         <Counter initialCount={chosenCount} />
       </main>
-      <h1>Hello</h1>
     </>
   );
 }
